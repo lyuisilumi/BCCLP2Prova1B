@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eefc237f.css",
+    "main.js": "/static/js/main.faf883fb.js",
+    "static/media/ricardoeletro.png": "/static/media/ricardoeletro.b6832e7dca74d29262a5.png",
+    "index.html": "/index.html",
+    "main.eefc237f.css.map": "/static/css/main.eefc237f.css.map",
+    "main.faf883fb.js.map": "/static/js/main.faf883fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eefc237f.css",
+    "static/js/main.faf883fb.js"
+  ]
+}
