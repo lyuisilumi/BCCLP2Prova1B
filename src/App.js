@@ -3,6 +3,8 @@ import BarraBusca from "./templates/BarraBusca";
 import Cabecalho from "./templates/Cabecalho";
 import { useEffect, useState } from "react";
 
+
+
 function App() {
   useEffect(() => {
     fetch("https://fakestoreapi.com/products")
